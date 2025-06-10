@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 		title: 'Andrew Coleburn - Fullstack Developer Portfolio',
 		description: 'Passionate fullstack developer creating building simple, scalable, and effective solutions with React and Node.',
 		// TODOL 
-		url: 'https://your-domain.com',
+		url: 'https://arcoleburn.com',
 		siteName: 'Andrew Coleburn - Portfolio',
 		images: [
 			{
