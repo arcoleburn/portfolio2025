@@ -67,13 +67,13 @@ export default function ProjectsSection() {
                   {project.summary}
                 </p>
                 <div className="flex gap-2">
-                  <a
+                  {/* <a
                     target="_blank"
                     href={project.link ?? "#"}
                     className="text-blue-400 hover:text-blue-300 font-medium text-sm sm:text-base"
                   >
                     View Project →
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
